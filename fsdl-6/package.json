@@ -1,0 +1,14 @@
+{
+  "name": "fsdl-6",
+  "version": "1.0.0",
+  "description": "fsdl-6-exp",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"hello\")"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
